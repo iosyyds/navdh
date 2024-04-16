@@ -1,7 +1,7 @@
 {
 	"base": {
 		"app_name": "甜甜导航",
-		"web_host": "https://www.fre123.com",
+		"web_host": "https://nav.iosdh.cn",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
@@ -75,7 +75,7 @@
 				"icon_hover_color": "#085b85",
 				"text": "关注老胡TG信息流频道",
 				"img": "",
-				"url": "https://t.me/howie_weekly"
+				"url": "https://nav.iosdh.cn"
 			},
 			{
 				"icon_class": "fas fa-comment-dots",
@@ -84,7 +84,7 @@
 				"icon_hover_color": "#085b85",
 				"text": "FRE123 期待您的建议反馈",
 				"img": "",
-				"url": "https://txc.qq.com/products/617721"
+				"url": "https://nav.iosdh.cn"
 			}
 		]
 	},

@@ -12,7 +12,7 @@
 				},
 				"details": [
 					{
-						"title": "FRE123 新闻热榜",
+						"title": "甜甜导航 新闻热榜",
 						"ori_url": "https://www.fre123.com/news",
 						"url": "https://www.fre123.com/news",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
@@ -21,7 +21,7 @@
 						"is_show": true
 					},
 					{
-						"title": "FRE123 技术热榜",
+						"title": "甜甜导航 技术热榜",
 						"ori_url": "https://www.fre123.com/tech",
 						"url": "https://www.fre123.com/tech",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
@@ -30,7 +30,7 @@
 						"is_show": true
 					},
 					{
-						"title": "FRE123 精选周刊",
+						"title": "甜甜导航 精选周刊",
 						"ori_url": "https://www.fre123.com/weekly",
 						"url": "https://www.fre123.com/weekly",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a125a343.jpg",

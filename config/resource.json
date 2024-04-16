@@ -28,31 +28,31 @@
 				"is_show": true
 			},
 			{
-				"name": "duckduckgo",
+				"name": "DuckDuckGo",
 				"url": "https://duckduckgo.com/?q={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/22/65ae2b2740867.ico",
 				"is_show": true
 			},
 			{
-				"name": "presearch",
+				"name": "Presearch",
 				"url": "https://presearch.com/search?q={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/22/65ae2a5e16b04.png",
 				"is_show": true
 			},
 			{
-				"name": "devv.ai",
+				"name": "Devv.ai",
 				"url": "https://devv.ai/zh/search/{keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/25/65b26106a8645.png",
 				"is_show": true
 			},
 			{
-				"name": "nona",
+				"name": "Nona",
 				"url": "https://www.nona.de?q={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/22/65ae2b62e27c0.png",
 				"is_show": false
 			},
 			{
-				"name": "yandex",
+				"name": "Yandex",
 				"url": "https://yandex.com/search/?text={keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/21/65d4f90636b89.ico",
 				"is_show": true
